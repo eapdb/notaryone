@@ -12,4 +12,4 @@ Download and Install libreoffice（include base）
 
 https://zh-tw.libreoffice.org/
 
-click to open notaryone.odb
+click to open Newmindset_Nortary_One_20220624R8.odb
